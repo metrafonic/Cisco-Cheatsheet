@@ -6,7 +6,7 @@ Documents covering the basics can be found in the sidebar to the right. Commands
 
 ## Getting Started
 
-View the [Basic Configuration w Auth](wiki/1.-Basic-Configuration-w-Auth)
+View the [Basic Configuration w Auth](https://github.com/metrafonic/Cisco-Cheatsheet/wiki)
 
 ### Disclaimer
 

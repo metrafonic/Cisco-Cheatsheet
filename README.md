@@ -4,7 +4,7 @@ Documents covering the basics can be found in the sidebar to the right. Commands
 
 ## Getting Started
 
-View the [Basic Configuration w Auth](https://github.com/metrafonic/Cisco-Cheatsheet/wiki)
+View the [Wiki Guide](https://github.com/metrafonic/Cisco-Cheatsheet/wiki)
 
 ### Disclaimer
 

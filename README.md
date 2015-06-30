@@ -1,5 +1,3 @@
-![](http://photos.webwire.com/prmedia/2/198582/198582-1.png?201562923126)
-
 Welcome to the Cisco-Cheatsheet wiki!
 
 Documents covering the basics can be found in the sidebar to the right. Commands are tested with the CISCO Catalyst 2960.

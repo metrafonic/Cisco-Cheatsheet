@@ -1,5 +1,3 @@
-# Cisco Cheatsheet
-Made by **Mathias Hedberg**
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/800px-Cisco_logo.svg.png)
 
 Welcome to the Cisco-Cheatsheet wiki!

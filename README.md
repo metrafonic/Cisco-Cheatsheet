@@ -1,6 +1,6 @@
 ## Getting Started
 
-View the [Wiki Guide](https://docs.hedberg.io/Documentation/CISCO-Guide/)
+View the [Wiki Guide](https://docs.hedberg.io//CISCO/)
 
 ### Disclaimer
 

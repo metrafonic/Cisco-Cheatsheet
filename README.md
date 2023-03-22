@@ -1,6 +1,6 @@
 ## Getting Started
 
-View the [Wiki Guide](https://docs.hedberg.io/CISCO/)
+View the [Wiki Guide](https://github.com/metrafonic/Cisco-Cheatsheet/wiki)
 
 ### Disclaimer
 
